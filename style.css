@@ -22,6 +22,7 @@
     z-index:4;
     border-top-left-radius:100%;
     border-bottom-left-radius: 100%;
+    border: 2px black solid;
 }
 
 .skills h3{
