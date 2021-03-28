@@ -47,7 +47,11 @@
     color: black;
 }
 
-.projects a:link, a:visited{
+.projects a:link{
+    color: black;
+}
+
+.projects a:visited{
     color: black;
 }
 
