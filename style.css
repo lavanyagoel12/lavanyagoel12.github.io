@@ -40,14 +40,14 @@
     color: white;
 }
 
-.projects{
+.projects, a:link, a:visited{
     grid-area: 7/ 1/ 7/ 3;
     background-color:#43D8C9;
     padding: 1%;
     color: black;
 }
 
-.links{
+.links, a:link, a:visited{
     background-color:#100303;
     color: white;
     padding: 1%;
