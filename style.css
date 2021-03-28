@@ -40,7 +40,7 @@
     color: white;
 }
 
-.projects, a:link, a:visited{
+.projects{
     grid-area: 7/ 1/ 7/ 3;
     background-color:#43D8C9;
     padding: 1%;
