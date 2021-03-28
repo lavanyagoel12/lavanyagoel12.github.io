@@ -41,8 +41,10 @@
 }
 
 .projects{
+    grid-area: 5/ 1/ 7/ 3;
     background-color:#F7F7F7;
     padding: 1%;
+    color: black;
 }
 
 .links{
