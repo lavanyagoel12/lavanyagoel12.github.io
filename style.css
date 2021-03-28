@@ -47,7 +47,33 @@
     color: black;
 }
 
-.links, a:link, a:visited{
+.projects a:link{
+    grid-area: 7/ 1/ 7/ 3;
+    background-color:#43D8C9;
+    padding: 1%;
+    color: black;
+}
+
+.projects a:visited{
+    grid-area: 7/ 1/ 7/ 3;
+    background-color:#43D8C9;
+    padding: 1%;
+    color: black;
+}
+
+.links{
+    background-color:#100303;
+    color: white;
+    padding: 1%;
+}
+
+.links a:link{
+    background-color:#100303;
+    color: white;
+    padding: 1%;
+}
+
+.links a:visited{
     background-color:#100303;
     color: white;
     padding: 1%;
