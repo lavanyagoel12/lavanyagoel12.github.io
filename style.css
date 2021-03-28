@@ -41,7 +41,7 @@
 }
 
 .projects{
-    grid-area: 5/ 1/ 7/ 3;
+    grid-area: 7/ 1/ 7/ 3;
     background-color:#43D8C9;
     padding: 1%;
     color: black;
